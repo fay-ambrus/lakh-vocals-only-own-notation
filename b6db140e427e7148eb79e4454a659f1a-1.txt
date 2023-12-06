@@ -1,1 +1,1 @@
-tempo: 451128 F#4 4 D#4 2 C#4 2 B3 2 C#4 2 G#3 4 X 4 G#4 2 F#4 2 X 16 B3 2 C#4 2 G#3 4 X 48 F#4 4 D#4 4 X 120 F#4 4 D#4 2 C#4 2 B3 2 C#4 2 G#3 4 X 4 G#4 2 F#4 2 X 16 B3 2 C#4 2 G#3 4 X 48 F#4 4 D#4 4
+tempo: 451128 li3 4 szo3 2 fa3 2 ri3 2 fa3 2 do3 4 X 4 do4 2 li3 2 X 16 ri3 2 fa3 2 do3 4 X 48 li3 4 szo3 4 X 120 li3 4 szo3 2 fa3 2 ri3 2 fa3 2 do3 4 X 4 do4 2 li3 2 X 16 ri3 2 fa3 2 do3 4 X 48 li3 4 szo3 4

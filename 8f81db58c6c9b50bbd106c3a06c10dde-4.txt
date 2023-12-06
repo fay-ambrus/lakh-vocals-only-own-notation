@@ -1,1 +1,1 @@
-tempo: 451128 E5 7 X 1 D5 7 X 1 C5 7 X 1 D5 7 X 1 E5 7 X 1 D5 7 X 1 C5 5 X 1 D5 1 C5 1 B4 2
+tempo: 451128 re5 7 X 1 do5 7 X 1 li4 7 X 1 do5 7 X 1 re5 7 X 1 do5 7 X 1 li4 5 X 1 do5 1 li4 1 la4 2

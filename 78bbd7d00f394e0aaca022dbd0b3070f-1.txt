@@ -1,1 +1,1 @@
-tempo: 500000 A4 15 F4 16 A4 32 E4 16 D4 16 C4 15 X 1 G4 15 X 1 A#4 31
+tempo: 500000 la4 15 fa4 16 la4 32 mi4 16 re4 16 do4 15 X 1 szo4 15 X 1 li4 31

@@ -1,1 +1,1 @@
-tempo: 857142 A3 3 C4 1 D4 3 C4 1 D#4 3 C4 1 D4 3 C4 1 E4 3 G4 1 A4 3 G4 1 A#4 3 A4 5 G#4 3 A4 1 A3 3 C4 1 E4 4 D#4 3 D4 9
+tempo: 857142 la3 3 do4 1 re4 3 do4 1 ri4 3 do4 1 re4 3 do4 1 mi4 3 szo4 1 la4 3 szo4 1 li4 3 la4 5 szi4 3 la4 1 la3 3 do4 1 mi4 4 ri4 3 re4 9

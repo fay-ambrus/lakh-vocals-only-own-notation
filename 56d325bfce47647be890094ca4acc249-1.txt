@@ -1,1 +1,1 @@
-tempo: 357142 E3 2 X 1 E3 3 X 506 E3 1 X 1 E3 5
+tempo: 357142 mi3 2 X 1 mi3 3 X 506 mi3 1 X 1 mi3 5

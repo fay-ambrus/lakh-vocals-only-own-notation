@@ -1,1 +1,1 @@
-tempo: 645161 C5 1 D#5 2 C5 1 F5 8 X 138 C5 2 A#4 1 A#4 3 G4 2 X 134 G5 4 X 6 G5 1 F5 1 D#5 2 X 94 C5 1 D#5 2 C5 1 F5 8 X 138 C5 2 A#4 1 A#4 3 G4 2 X 134 G5 4 X 6 G5 1 F5 1 D#5 2
+tempo: 645161 la4 1 do5 2 la4 1 re5 8 X 138 la4 2 szo4 1 szo4 3 mi4 2 X 134 mi5 4 X 6 mi5 1 re5 1 do5 2 X 94 la4 1 do5 2 la4 1 re5 8 X 138 la4 2 szo4 1 szo4 3 mi4 2 X 134 mi5 4 X 6 mi5 1 re5 1 do5 2

@@ -1,1 +1,1 @@
-tempo: 317460 C#5 14 B4 6 X 116 C#5 6 B4 6 X 1356 C#5 14 B4 6 X 148 C#5 6 B4 6
+tempo: 317460 mi4 14 re4 6 X 116 mi4 6 re4 6 X 1356 mi4 14 re4 6 X 148 mi4 6 re4 6

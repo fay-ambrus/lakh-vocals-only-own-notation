@@ -1,1 +1,1 @@
-tempo: 400000 G#5 16 E5 16 F#5 16 X 16 G#5 16 E5 16 F#5 16 X 16 G#5 16 E5 16 F#5 16 X 16 G#5 16 E5 16 F#5 16 G#5 16
+tempo: 400000 szi5 16 mi5 16 fi5 16 X 16 szi5 16 mi5 16 fi5 16 X 16 szi5 16 mi5 16 fi5 16 X 16 szi5 16 mi5 16 fi5 16 szi5 16

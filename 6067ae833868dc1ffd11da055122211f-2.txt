@@ -1,1 +1,1 @@
-tempo: 952381 A4 4 A4 2 X 12 F4 1 F4 2 G4 1 X 4 A#4 3 A4 1 X 56 A4 2 F4 2 F4 2 D4 2 X 8 A4 2 F4 2 F4 2 D4 2 X 66 A4 4 A4 2 X 12 F4 1 F4 2 G4 1 X 4 A#4 3 A4 1 X 56 A4 2 F4 2 F4 2 D4 2
+tempo: 952381 mi4 4 mi4 2 X 12 do4 1 do4 2 re4 1 X 4 fa4 3 mi4 1 X 56 mi4 2 do4 2 do4 2 la3 2 X 8 mi4 2 do4 2 do4 2 la3 2 X 66 mi4 4 mi4 2 X 12 do4 1 do4 2 re4 1 X 4 fa4 3 mi4 1 X 56 mi4 2 do4 2 do4 2 la3 2

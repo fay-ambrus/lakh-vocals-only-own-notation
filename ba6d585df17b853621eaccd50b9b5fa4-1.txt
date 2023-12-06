@@ -1,1 +1,1 @@
-tempo: 352941 G4 4 D5 12 X 16 D5 4 G4 12 X 16 G4 4 D5 12 X 16 D5 4 G4 12
+tempo: 352941 do4 4 szo4 12 X 16 szo4 4 do4 12 X 16 do4 4 szo4 12 X 16 szo4 4 do4 12

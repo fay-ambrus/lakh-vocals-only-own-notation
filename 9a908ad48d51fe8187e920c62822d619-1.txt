@@ -1,1 +1,1 @@
-tempo: 923077 D5 5 B4 17 A4 6 G4 4 D5 5 B4 17 A4 6 G4 4 X 128 D5 5 B4 17 A4 6 G4 4 D5 5 B4 17 A4 6 G4 4 X 256 D5 5 B4 17 A4 6 G4 4 D5 5 B4 17 A4 6 G4 4 X 128 D5 5 B4 17 A4 6 G4 4 D5 5 B4 17 A4 6 G4 4
+tempo: 923077 re5 5 ti4 17 la4 6 szo4 4 re5 5 ti4 17 la4 6 szo4 4 X 128 re5 5 ti4 17 la4 6 szo4 4 re5 5 ti4 17 la4 6 szo4 4 X 256 re5 5 ti4 17 la4 6 szo4 4 re5 5 ti4 17 la4 6 szo4 4 X 128 re5 5 ti4 17 la4 6 szo4 4 re5 5 ti4 17 la4 6 szo4 4

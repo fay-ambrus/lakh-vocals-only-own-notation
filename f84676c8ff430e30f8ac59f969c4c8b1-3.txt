@@ -1,1 +1,1 @@
-tempo: 500000 A#3 16 A3 16 A#3 32 X 64 A#3 16 A3 16 A#3 32 X 64 A#3 16 A3 16 A#3 32 X 64 A#3 16 A3 16 A#3 32 X 48 A#3 8 A#3 8 A#3 16 X 32 A#3 8 C4 8 A#3 16 X 32 A#3 8 C4 8 A#3 16
+tempo: 500000 li3 16 la3 16 li3 32 X 64 li3 16 la3 16 li3 32 X 64 li3 16 la3 16 li3 32 X 64 li3 16 la3 16 li3 32 X 48 li3 8 li3 8 li3 16 X 32 li3 8 do4 8 li3 16 X 32 li3 8 do4 8 li3 16

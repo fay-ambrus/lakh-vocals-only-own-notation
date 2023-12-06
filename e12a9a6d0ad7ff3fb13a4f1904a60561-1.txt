@@ -1,1 +1,1 @@
-tempo: 468750 E5 8 D#5 2 C#5 2 B4 6 X 14 E5 8 D#5 2 C#5 2 B4 4 C#5 2 G#4 2 B4 2 X 10 E5 8 D#5 2 C#5 2 B4 6 X 72 E5 6 D#5 2 C#5 2 C#5 4 B4 2 A#4 2 F#4 6 X 6 E5 8 D#5 2 C#5 8
+tempo: 468750 mi5 8 ri5 2 di5 2 ti4 6 X 14 mi5 8 ri5 2 di5 2 ti4 4 di5 2 szi4 2 ti4 2 X 10 mi5 8 ri5 2 di5 2 ti4 6 X 72 mi5 6 ri5 2 di5 2 di5 4 ti4 2 li4 2 fi4 6 X 6 mi5 8 ri5 2 di5 8

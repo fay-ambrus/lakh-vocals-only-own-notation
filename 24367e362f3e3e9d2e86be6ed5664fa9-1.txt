@@ -1,1 +1,1 @@
-tempo: 434782 D5 32 G4 32 A4 32 F#4 16 B4 16 D5 32 G4 32 A4 32 F#4 16 B4 16
+tempo: 434782 re5 32 szo4 32 la4 32 fi4 16 ti4 16 re5 32 szo4 32 la4 32 fi4 16 ti4 16

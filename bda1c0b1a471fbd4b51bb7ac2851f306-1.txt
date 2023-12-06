@@ -1,1 +1,1 @@
-tempo: 368664 C4 4 G4 2 X 4 G4 2 X 2 G4 2 B3 4 G4 2 X 4 G4 2 X 2 G4 2 C4 4 G4 2 X 4 G4 2 X 2 G4 2 A4 3 X 1 G4 4 E4 4 D4 3 X 1 C4 4 G4 2 X 4 G4 2 X 2 G4 2 D4 4 G4 2 X 4 G4 2 X 2 G4 2 D4 4 G4 2 X 4 G4 2 X 2 G4 2 D4 4 G4 2 X 4 G4 2 A4 2 G4 2
+tempo: 368664 do4 4 szo4 2 X 4 szo4 2 X 2 szo4 2 ti3 4 szo4 2 X 4 szo4 2 X 2 szo4 2 do4 4 szo4 2 X 4 szo4 2 X 2 szo4 2 la4 3 X 1 szo4 4 mi4 4 re4 3 X 1 do4 4 szo4 2 X 4 szo4 2 X 2 szo4 2 re4 4 szo4 2 X 4 szo4 2 X 2 szo4 2 re4 4 szo4 2 X 4 szo4 2 X 2 szo4 2 re4 4 szo4 2 X 4 szo4 2 la4 2 szo4 2

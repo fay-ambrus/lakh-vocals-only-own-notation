@@ -1,1 +1,1 @@
-tempo: 483014 E3 2 A3 2 B3 2 C4 2 D4 2 X 118 E3 2 A3 2 B3 2 C4 2 D4 2
+tempo: 483014 mi3 2 la3 2 ti3 2 do4 2 re4 2 X 118 mi3 2 la3 2 ti3 2 do4 2 re4 2

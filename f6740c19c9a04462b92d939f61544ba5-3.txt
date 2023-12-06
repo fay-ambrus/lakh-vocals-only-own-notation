@@ -1,1 +1,1 @@
-tempo: 517241 F#5 2 B4 2 C#5 23 X 21 F#5 2 B4 2 C#5 23 X 21 F#5 2 B4 2 C#5 23 X 485 F#5 2 B4 2 C#5 23 X 21 F#5 2 B4 2 C#5 23 X 21 F#5 2 B4 2 C#5 23 X 485 F#5 2 B4 2 C#5 23 X 21 F#5 2 B4 2 C#5 23 X 21 F#5 2 B4 2 C#5 23
+tempo: 517241 la4 2 re4 2 mi4 23 X 21 la4 2 re4 2 mi4 23 X 21 la4 2 re4 2 mi4 23 X 485 la4 2 re4 2 mi4 23 X 21 la4 2 re4 2 mi4 23 X 21 la4 2 re4 2 mi4 23 X 485 la4 2 re4 2 mi4 23 X 21 la4 2 re4 2 mi4 23 X 21 la4 2 re4 2 mi4 23

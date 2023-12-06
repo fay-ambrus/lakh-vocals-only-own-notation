@@ -1,1 +1,1 @@
-tempo: 472440 F3 4 F3 4 F3 3 F3 2 X 3 F3 4 G#3 4 B3 3 B3 2 X 3 F3 4 F3 4 F3 3 F3 2 X 3 F3 4 G#3 4 B3 4 C4 4
+tempo: 472440 fa3 4 fa3 4 fa3 3 fa3 2 X 3 fa3 4 szi3 4 ti3 3 ti3 2 X 3 fa3 4 fa3 4 fa3 3 fa3 2 X 3 fa3 4 szi3 4 ti3 4 do4 4

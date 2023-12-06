@@ -1,1 +1,1 @@
-tempo: 588235 G4 6 G4 2 X 248 G4 6 G4 2
+tempo: 588235 mi4 6 mi4 2 X 248 mi4 6 mi4 2

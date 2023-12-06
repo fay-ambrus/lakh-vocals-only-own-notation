@@ -1,1 +1,1 @@
-tempo: 638297 B3 12 B3 4 B3 12 X 4 B3 12 B3 4 B3 12 X 292 C4 12 C4 4 C4 12 X 4 C4 12 C4 4 C4 12
+tempo: 638297 fi3 12 fi3 4 fi3 12 X 4 fi3 12 fi3 4 fi3 12 X 292 szo3 12 szo3 4 szo3 12 X 4 szo3 12 szo3 4 szo3 12

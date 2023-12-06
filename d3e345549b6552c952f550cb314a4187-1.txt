@@ -1,1 +1,1 @@
-tempo: 576923 D5 4 D5 2 C5 2 D5 4 E5 2 C5 2 X 80 D5 2 D5 2 D5 2 C5 3 X 49 C5 2 D5 2 C5 2 D#5 3 X 2 D#5 3 X 100 C5 2 A4 1 A4 1 X 48 D5 4 D5 2 C5 2 D5 4 E5 2 C5 2 X 80 D5 2 D5 2 D5 2 C5 3 X 49 C5 2 D5 2 C5 2 D#5 3 X 2 D#5 3 X 100 C5 2 A4 1 A4 1 X 252 C5 2 A4 1 A4 1
+tempo: 576923 re5 4 re5 2 do5 2 re5 4 mi5 2 do5 2 X 80 re5 2 re5 2 re5 2 do5 3 X 49 do5 2 re5 2 do5 2 ri5 3 X 2 ri5 3 X 100 do5 2 la4 1 la4 1 X 48 re5 4 re5 2 do5 2 re5 4 mi5 2 do5 2 X 80 re5 2 re5 2 re5 2 do5 3 X 49 do5 2 re5 2 do5 2 ri5 3 X 2 ri5 3 X 100 do5 2 la4 1 la4 1 X 252 do5 2 la4 1 la4 1

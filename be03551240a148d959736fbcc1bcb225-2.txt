@@ -1,1 +1,1 @@
-tempo: 833333 F4 8 F4 6 F4 2 F4 8 X 8 E4 8 F4 4 E4 4 F4 8 X 8 F4 8 F4 6 F4 2 F4 8 X 8 E4 8 E4 6 E4 2 F4 8 X 456 F4 8 F4 6 F4 2 F4 8 X 8 E4 8 F4 4 E4 4 F4 8 X 8 F4 8 F4 6 F4 2 F4 8 X 8 E4 8 E4 6 E4 2 F4 8
+tempo: 833333 do4 8 do4 6 do4 2 do4 8 X 8 ti3 8 do4 4 ti3 4 do4 8 X 8 do4 8 do4 6 do4 2 do4 8 X 8 ti3 8 ti3 6 ti3 2 do4 8 X 456 do4 8 do4 6 do4 2 do4 8 X 8 ti3 8 do4 4 ti3 4 do4 8 X 8 do4 8 do4 6 do4 2 do4 8 X 8 ti3 8 ti3 6 ti3 2 do4 8

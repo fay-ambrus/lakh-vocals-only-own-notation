@@ -1,1 +1,1 @@
-tempo: 535714 A#4 6 G4 2 F4 2 G4 4 A#4 8 G4 2 F4 2 G4 4 D#4 6 X 356 D4 2 D#4 4 F4 4 D#4 4 D4 4 D#4 4 A#3 6 X 348 A#4 6 G4 2 F4 2 G4 4 A#4 8 G4 2 F4 2 G4 4 D#4 6 X 92 C5 6 A4 2 G4 2 A4 4 C5 8 A4 2 G4 2 A4 4 F4 16
+tempo: 535714 li4 6 szo4 2 fa4 2 szo4 4 li4 8 szo4 2 fa4 2 szo4 4 ri4 6 X 356 re4 2 ri4 4 fa4 4 ri4 4 re4 4 ri4 4 li3 6 X 348 li4 6 szo4 2 fa4 2 szo4 4 li4 8 szo4 2 fa4 2 szo4 4 ri4 6 X 92 do5 6 la4 2 szo4 2 la4 4 do5 8 la4 2 szo4 2 la4 4 fa4 16

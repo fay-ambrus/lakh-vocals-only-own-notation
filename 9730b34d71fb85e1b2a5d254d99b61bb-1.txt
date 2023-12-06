@@ -1,1 +1,1 @@
-tempo: 625000 E5 2 X 2 C#5 2 X 2 F#4 2 X 2 B4 2
+tempo: 625000 mi5 2 X 2 di5 2 X 2 fi4 2 X 2 ti4 2

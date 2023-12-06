@@ -1,1 +1,1 @@
-tempo: 394762 D5 4 C5 3 B4 3 A4 2 X 372 D5 4 C5 3 B4 3 A4 3 X 51 D5 4 C5 3 B4 3 A4 3
+tempo: 394762 szo4 4 fa4 3 mi4 3 re4 2 X 372 szo4 4 fa4 3 mi4 3 re4 3 X 51 szo4 4 fa4 3 mi4 3 re4 3

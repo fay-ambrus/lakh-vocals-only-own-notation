@@ -1,1 +1,1 @@
-tempo: 413793 G#4 28 G4 4 G#4 28 G4 4 G#4 28 G4 4 G#4 3 X 157 G#4 28 G4 4 G#4 28 G4 4 G#4 28 G4 4 G#4 3
+tempo: 413793 szi4 28 szo4 4 szi4 28 szo4 4 szi4 28 szo4 4 szi4 3 X 157 szi4 28 szo4 4 szi4 28 szo4 4 szi4 28 szo4 4 szi4 3

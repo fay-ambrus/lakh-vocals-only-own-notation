@@ -1,1 +1,1 @@
-tempo: 437956 D#5 8 E5 9 F5 8 F#5 8 X 383 D#5 8 E5 9 F5 8 F#5 8 X 607 D#5 8 E5 9 F5 8 F#5 8
+tempo: 437956 ri5 8 mi5 9 fa5 8 fi5 8 X 383 ri5 8 mi5 9 fa5 8 fi5 8 X 607 ri5 8 mi5 9 fa5 8 fi5 8

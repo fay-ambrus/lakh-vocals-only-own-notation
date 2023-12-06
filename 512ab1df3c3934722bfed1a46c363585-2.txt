@@ -1,1 +1,1 @@
-tempo: 357143 D#5 2 D5 2 C5 2 D5 2 C5 2 A4 2 C5 2 A4 12 D#4 4 X 2 D4 2 X 4 D4 4 X 4 D4 2
+tempo: 357143 ri5 2 re5 2 do5 2 re5 2 do5 2 la4 2 do5 2 la4 12 ri4 4 X 2 re4 2 X 4 re4 4 X 4 re4 2

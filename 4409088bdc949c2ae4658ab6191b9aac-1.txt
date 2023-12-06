@@ -1,1 +1,1 @@
-tempo: 625000 C#5 8 D#5 16 E5 12 F#5 4 D#5 16 X 8 C#5 8 D#5 16 E5 12 F#5 4 D#5 8 X 176 C#5 8 D#5 16 E5 12 F#5 4 D#5 16 X 8 C#5 8 D#5 16 E5 12 F#5 4 D#5 8 X 368 C#5 8 D#5 16 E5 12 F#5 4 D#5 16 X 8 C#5 8 D#5 16 E5 12 F#5 4 D#5 8
+tempo: 625000 di5 8 ri5 16 mi5 12 fi5 4 ri5 16 X 8 di5 8 ri5 16 mi5 12 fi5 4 ri5 8 X 176 di5 8 ri5 16 mi5 12 fi5 4 ri5 16 X 8 di5 8 ri5 16 mi5 12 fi5 4 ri5 8 X 368 di5 8 ri5 16 mi5 12 fi5 4 ri5 16 X 8 di5 8 ri5 16 mi5 12 fi5 4 ri5 8

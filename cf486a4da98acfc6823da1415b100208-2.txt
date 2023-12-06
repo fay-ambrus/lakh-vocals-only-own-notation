@@ -1,1 +1,1 @@
-tempo: 625000 A3 3 X 1 G3 3 X 1 F3 3 X 501 A3 3 X 1 G3 3 X 1 F3 3
+tempo: 625000 la3 3 X 1 szo3 3 X 1 fa3 3 X 501 la3 3 X 1 szo3 3 X 1 fa3 3

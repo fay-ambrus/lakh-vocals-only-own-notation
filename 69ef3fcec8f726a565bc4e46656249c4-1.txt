@@ -1,1 +1,1 @@
-tempo: 600000 D4 20 A3 7 X 1 D4 4 B3 31 X 1 D4 20 A3 7 X 1 D4 4 B3 31 X 1 C#4 31 X 1 D4 15 X 1 C#4 15 X 1 D4 15 X 1 D4 15 X 129 D4 20 A3 7 X 1 D4 4 B3 31 X 1 D4 20 A3 7 X 1 D4 4 B3 31 X 1 C#4 31 X 1 D4 15 X 1 C#4 15 X 1 D4 15 X 1 D4 15
+tempo: 600000 la3 20 mi3 7 X 1 la3 4 fi3 31 X 1 la3 20 mi3 7 X 1 la3 4 fi3 31 X 1 szi3 31 X 1 la3 15 X 1 szi3 15 X 1 la3 15 X 1 la3 15 X 129 la3 20 mi3 7 X 1 la3 4 fi3 31 X 1 la3 20 mi3 7 X 1 la3 4 fi3 31 X 1 szi3 31 X 1 la3 15 X 1 szi3 15 X 1 la3 15 X 1 la3 15

@@ -1,1 +1,1 @@
-tempo: 652174 B4 16 D5 16 E5 16 D5 16 B4 16 D5 16 E5 16 D5 16
+tempo: 652174 ti4 16 re5 16 mi5 16 re5 16 ti4 16 re5 16 mi5 16 re5 16

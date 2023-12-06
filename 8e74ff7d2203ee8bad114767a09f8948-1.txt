@@ -1,1 +1,1 @@
-tempo: 857143 A3 2 A3 2 A3 2 X 242 D4 2 D4 2 D4 2 X 250 D4 2 D4 2 D4 2 X 250 D4 2 D4 2 D4 2
+tempo: 857143 la3 2 la3 2 la3 2 X 242 re4 2 re4 2 re4 2 X 250 re4 2 re4 2 re4 2 X 250 re4 2 re4 2 re4 2

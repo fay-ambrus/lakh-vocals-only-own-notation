@@ -1,1 +1,1 @@
-tempo: 571429 F4 8 D#4 8 C#4 8 A#3 8 F4 8 D#4 8 F4 8 C#4 8 A#3 8 C4 8 C#4 8 A#3 8 D#4 8 F4 8 D#4 8 A#3 8 G#4 8 F#4 8 D#4 8 F4 8 F4 8 D#4 8 C#4 8 A#3 8 F4 8 D#4 8 F4 8 C#4 8 A#3 8 C4 8 C#4 8 A#3 8 D#4 8 F4 8 D#4 8 A#3 8 G#4 8 F#4 16
+tempo: 571429 mi4 8 re4 8 do4 8 la3 8 mi4 8 re4 8 mi4 8 do4 8 la3 8 ti3 8 do4 8 la3 8 re4 8 mi4 8 re4 8 la3 8 szo4 8 fa4 8 re4 8 mi4 8 mi4 8 re4 8 do4 8 la3 8 mi4 8 re4 8 mi4 8 do4 8 la3 8 ti3 8 do4 8 la3 8 re4 8 mi4 8 re4 8 la3 8 szo4 8 fa4 16

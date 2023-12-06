@@ -1,1 +1,1 @@
-tempo: 800000 D4 4 D4 4 D4 2 X 22 D4 4 D4 4 D4 4 X 24 D4 8 D4 8 D4 8 D4 28 X 72 D4 4 D4 4 D4 2 X 22 D4 4 D4 4 D4 4 X 24 D4 8 D4 8 D4 8 D4 28
+tempo: 800000 re4 4 re4 4 re4 2 X 22 re4 4 re4 4 re4 4 X 24 re4 8 re4 8 re4 8 re4 28 X 72 re4 4 re4 4 re4 2 X 22 re4 4 re4 4 re4 4 X 24 re4 8 re4 8 re4 8 re4 28

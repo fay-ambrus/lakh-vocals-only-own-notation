@@ -1,1 +1,1 @@
-tempo: 512821 C4 2 A#3 2 C4 2 A#3 2 X 56 C4 2 D#4 2 C4 4 X 184 C4 2 A#3 2 C4 2 A#3 2 X 56 C4 2 D#4 2 C4 4 X 8 G4 2 F4 2 D#4 2 C4 2 X 8 C4 2 D#4 2 C4 4 X 248 C4 2 D#4 2 C4 4 X 8 G4 2 F4 2 D#4 2 C4 2 X 8 C4 2 D#4 2 C4 4 X 8 C4 2 D#4 2 C4 4 X 8 C4 2 D#4 2 C4 4
+tempo: 512821 la3 2 szo3 2 la3 2 szo3 2 X 56 la3 2 do4 2 la3 4 X 184 la3 2 szo3 2 la3 2 szo3 2 X 56 la3 2 do4 2 la3 4 X 8 mi4 2 re4 2 do4 2 la3 2 X 8 la3 2 do4 2 la3 4 X 248 la3 2 do4 2 la3 4 X 8 mi4 2 re4 2 do4 2 la3 2 X 8 la3 2 do4 2 la3 4 X 8 la3 2 do4 2 la3 4 X 8 la3 2 do4 2 la3 4

@@ -1,1 +1,1 @@
-tempo: 582524 F4 12 F4 4 X 24 E4 2 D#4 2 E4 4 X 32 B3 8 X 16 F4 2 E4 2 F4 4 X 32 C4 16 X 40 C4 4 X 8 C4 8 X 4 E4 8 X 64 E4 2 D#4 2 E4 4 X 32 B3 8 X 16 F4 2 E4 2 F4 4 X 36 G4 24 X 84 F4 12 F4 4
+tempo: 582524 fa4 12 fa4 4 X 24 mi4 2 ri4 2 mi4 4 X 32 ti3 8 X 16 fa4 2 mi4 2 fa4 4 X 32 do4 16 X 40 do4 4 X 8 do4 8 X 4 mi4 8 X 64 mi4 2 ri4 2 mi4 4 X 32 ti3 8 X 16 fa4 2 mi4 2 fa4 4 X 36 szo4 24 X 84 fa4 12 fa4 4

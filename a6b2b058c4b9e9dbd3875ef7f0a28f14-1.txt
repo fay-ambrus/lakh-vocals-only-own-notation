@@ -1,1 +1,1 @@
-tempo: 408163 E4 6 A4 6 B4 6 C#5 6 D5 4 E5 14 X 86 E4 6 A4 6 B4 6 C#5 6 D5 4 E5 8 X 220 E4 6 A4 6 B4 6 C#5 6 D5 4 E5 14 X 86 E4 6 A4 6 B4 6 C#5 6 D5 4 E5 8 X 540 E4 6 A4 6 B4 6 C#5 6 D5 4 E5 14 X 86 E4 6 A4 6 B4 6 C#5 6 D5 4 E5 8
+tempo: 408163 fa3 6 li3 6 do4 6 re4 6 ri4 4 fa4 14 X 86 fa3 6 li3 6 do4 6 re4 6 ri4 4 fa4 8 X 220 fa3 6 li3 6 do4 6 re4 6 ri4 4 fa4 14 X 86 fa3 6 li3 6 do4 6 re4 6 ri4 4 fa4 8 X 540 fa3 6 li3 6 do4 6 re4 6 ri4 4 fa4 14 X 86 fa3 6 li3 6 do4 6 re4 6 ri4 4 fa4 8

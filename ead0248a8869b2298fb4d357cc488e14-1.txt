@@ -1,1 +1,1 @@
-tempo: 491803 B3 4 A#3 4 A3 3 X 21 B3 4 A#3 4 A3 3 X 21 B3 4 A#3 4 A3 3 X 21 B3 4 A#3 4 A3 3 X 21 B3 4 A#3 4 A3 3 X 181 B3 4 A#3 4 A3 3 X 21 B3 4 A#3 4 A3 3 X 21 B3 4 A#3 4 A3 3 X 21 B3 4 A#3 4 A3 3 X 21 B3 4 A#3 4 A3 3
+tempo: 491803 ti3 4 li3 4 la3 3 X 21 ti3 4 li3 4 la3 3 X 21 ti3 4 li3 4 la3 3 X 21 ti3 4 li3 4 la3 3 X 21 ti3 4 li3 4 la3 3 X 181 ti3 4 li3 4 la3 3 X 21 ti3 4 li3 4 la3 3 X 21 ti3 4 li3 4 la3 3 X 21 ti3 4 li3 4 la3 3 X 21 ti3 4 li3 4 la3 3

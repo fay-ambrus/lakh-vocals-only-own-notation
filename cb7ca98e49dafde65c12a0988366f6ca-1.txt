@@ -1,1 +1,1 @@
-tempo: 491803 F#4 30 X 3 F#4 28 X 3 F#4 29 X 307 F#4 30 X 3 F#4 28 X 3 F#4 29 X 307 F#4 30 X 3 F#4 28 X 3 F#4 29
+tempo: 491803 fi4 30 X 3 fi4 28 X 3 fi4 29 X 307 fi4 30 X 3 fi4 28 X 3 fi4 29 X 307 fi4 30 X 3 fi4 28 X 3 fi4 29

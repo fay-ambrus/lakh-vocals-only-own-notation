@@ -1,1 +1,1 @@
-tempo: 434782 G3 20 G3 2 D4 2 X 2 C4 2 X 24 G3 2 D4 2 X 2 A3 2 X 24 G3 2 D4 2 X 2 F#4 2 X 36 G3 20 G3 2 D4 2 X 2 C4 2 X 24 G3 2 D4 2 X 2 A3 2 X 24 G3 2 D4 2 X 2 F#4 2 X 24 D4 2 F#4 2 X 2 D5 2
+tempo: 434782 szo3 20 szo3 2 re4 2 X 2 do4 2 X 24 szo3 2 re4 2 X 2 la3 2 X 24 szo3 2 re4 2 X 2 fi4 2 X 36 szo3 20 szo3 2 re4 2 X 2 do4 2 X 24 szo3 2 re4 2 X 2 la3 2 X 24 szo3 2 re4 2 X 2 fi4 2 X 24 re4 2 fi4 2 X 2 re5 2

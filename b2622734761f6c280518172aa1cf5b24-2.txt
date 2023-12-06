@@ -1,1 +1,1 @@
-tempo: 306122 D4 8 D4 4 B3 4 D4 8 D4 8 D4 4 C4 4 B3 8 D4 8 D4 4 D4 4 D4 8 D4 8 D4 16 F#4 8 G4 4 D4 4 D4 8 D4 8 E4 4 C4 4 C4 8 E4 4 C4 4 B3 4 B3 4 B3 8 C4 8 B3 16
+tempo: 306122 re4 8 re4 4 ti3 4 re4 8 re4 8 re4 4 do4 4 ti3 8 re4 8 re4 4 re4 4 re4 8 re4 8 re4 16 fi4 8 szo4 4 re4 4 re4 8 re4 8 mi4 4 do4 4 do4 8 mi4 4 do4 4 ti3 4 ti3 4 ti3 8 do4 8 ti3 16

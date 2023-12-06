@@ -1,1 +1,1 @@
-tempo: 400000 E4 48 E4 24 D4 24 D#4 48 D4 48 D4 48 E4 48 D#4 48 D4 48
+tempo: 400000 mi4 48 mi4 24 re4 24 ri4 48 re4 48 re4 48 mi4 48 ri4 48 re4 48

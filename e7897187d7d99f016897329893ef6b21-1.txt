@@ -1,1 +1,1 @@
-tempo: 750000 G4 32 X 216 G4 4 D4 4 G4 32 X 24 G4 4 D4 4 F4 32 X 24 F4 4 D#4 4 F4 32 X 24 F4 4 G#4 4
+tempo: 750000 szo4 32 X 216 szo4 4 re4 4 szo4 32 X 24 szo4 4 re4 4 fa4 32 X 24 fa4 4 ri4 4 fa4 32 X 24 fa4 4 szi4 4

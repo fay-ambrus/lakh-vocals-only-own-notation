@@ -1,1 +1,1 @@
-tempo: 571429 A#4 2 X 32 A#4 2 A#4 2 X 378 A#4 2 X 32 A#4 2 A#4 2
+tempo: 571429 li4 2 X 32 li4 2 li4 2 X 378 li4 2 X 32 li4 2 li4 2

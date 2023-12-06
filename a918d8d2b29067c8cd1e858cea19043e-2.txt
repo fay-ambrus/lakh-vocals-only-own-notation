@@ -1,1 +1,1 @@
-tempo: 666667 F4 4 F4 4 F4 4 F4 4 F4 4 F4 4 F4 2 G4 2 F4 4 E4 4 F4 8 E4 4 F4 4 F4 4 F4 4 F4 4 F4 4 F4 4 F4 4 F4 4 E4 4 F4 12 X 288 F4 4 F4 4 F4 4 F4 4 F4 4 F4 4 F4 2 G4 2 F4 4 E4 4 F4 8 E4 4 F4 4 F4 4 F4 4 F4 4 F4 4 F4 4 F4 4 F4 4 E4 4 F4 12
+tempo: 666667 do4 4 do4 4 do4 4 do4 4 do4 4 do4 4 do4 2 re4 2 do4 4 ti3 4 do4 8 ti3 4 do4 4 do4 4 do4 4 do4 4 do4 4 do4 4 do4 4 do4 4 ti3 4 do4 12 X 288 do4 4 do4 4 do4 4 do4 4 do4 4 do4 4 do4 2 re4 2 do4 4 ti3 4 do4 8 ti3 4 do4 4 do4 4 do4 4 do4 4 do4 4 do4 4 do4 4 do4 4 ti3 4 do4 12

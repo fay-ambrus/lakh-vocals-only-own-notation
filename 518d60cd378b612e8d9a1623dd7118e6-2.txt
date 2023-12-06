@@ -1,1 +1,1 @@
-tempo: 431654 C#5 2 C#5 3 C#5 3 C#5 2 A#4 3 G#4 3 C5 2 D#5 3 D#5 3 D#5 2 D#5 3 D#5 3 D#5 2 D#5 8 X 214 C#5 2 C#5 3 C#5 3 C#5 2 A#4 3 G#4 3 C5 2 D#5 3 D#5 3 D#5 2 D#5 3 D#5 3 D#5 2 D#5 8 X 374 C#5 2 C#5 3 C#5 3 C#5 2 A#4 3 G#4 3 C5 2 D#5 3 D#5 3 D#5 2 D#5 3 D#5 3 D#5 2 C5 8
+tempo: 431654 la4 2 la4 3 la4 3 la4 2 fi4 3 mi4 3 szi4 2 ti4 3 ti4 3 ti4 2 ti4 3 ti4 3 ti4 2 ti4 8 X 214 la4 2 la4 3 la4 3 la4 2 fi4 3 mi4 3 szi4 2 ti4 3 ti4 3 ti4 2 ti4 3 ti4 3 ti4 2 ti4 8 X 374 la4 2 la4 3 la4 3 la4 2 fi4 3 mi4 3 szi4 2 ti4 3 ti4 3 ti4 2 ti4 3 ti4 3 ti4 2 szi4 8

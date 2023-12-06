@@ -1,1 +1,1 @@
-tempo: 750000 C5 2 A#4 5 X 1 C5 2 C5 2 C5 3 A#4 4 X 13 C5 2 A#4 5 X 1 C5 2 C5 2 C5 3 A#4 4 X 33 G#4 1 A#4 2 A#4 2 A#4 1 G#4 2 C5 3 G#4 1 G#4 3 G#4 4 F4 4 D#4 5 X 4 G#4 1 A#4 2 A#4 2 A#4 1 G#4 2 C5 3 G#4 1 G#4 3 G#4 4 F4 4 D#4 5
+tempo: 750000 do5 2 li4 5 X 1 do5 2 do5 2 do5 3 li4 4 X 13 do5 2 li4 5 X 1 do5 2 do5 2 do5 3 li4 4 X 33 szi4 1 li4 2 li4 2 li4 1 szi4 2 do5 3 szi4 1 szi4 3 szi4 4 fa4 4 ri4 5 X 4 szi4 1 li4 2 li4 2 li4 1 szi4 2 do5 3 szi4 1 szi4 3 szi4 4 fa4 4 ri4 5

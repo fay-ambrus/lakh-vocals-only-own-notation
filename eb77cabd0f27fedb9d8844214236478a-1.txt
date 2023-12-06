@@ -1,1 +1,1 @@
-tempo: 521739 G#4 2 X 1 G#4 2 G#4 3 B4 16 X 4 D#5 6 B4 5 X 1 G#4 2 X 1 B4 11 X 10 D#5 2 X 1 B4 2 G#4 3 B4 8 X 2 G#4 5 B4 2 X 2 G#4 1 G4 1 X 1 F#4 17
+tempo: 521739 szi4 2 X 1 szi4 2 szi4 3 ti4 16 X 4 ri5 6 ti4 5 X 1 szi4 2 X 1 ti4 11 X 10 ri5 2 X 1 ti4 2 szi4 3 ti4 8 X 2 szi4 5 ti4 2 X 2 szi4 1 szo4 1 X 1 fi4 17

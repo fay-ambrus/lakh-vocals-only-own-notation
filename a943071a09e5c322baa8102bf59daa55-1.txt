@@ -1,1 +1,1 @@
-tempo: 508474 G#4 1 X 1 G#4 2 X 2 B4 2 D5 1 X 503 G#4 1 X 1 G#4 2 X 2 B4 2 D5 1 X 503 G#4 1 X 1 G#4 2 X 2 B4 2 D5 1
+tempo: 508474 szi4 1 X 1 szi4 2 X 2 ti4 2 re5 1 X 503 szi4 1 X 1 szi4 2 X 2 ti4 2 re5 1 X 503 szi4 1 X 1 szi4 2 X 2 ti4 2 re5 1

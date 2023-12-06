@@ -1,1 +1,1 @@
-tempo: 681818 D4 4 D4 4 D4 4 D4 4 E4 4 F4 4 E4 12 G3 12 X 240 D4 4 D4 4 D4 4 D4 4 E4 4 F4 4 E4 12 G3 12 X 312 D4 4 D4 4 D4 4 D4 4 E4 4 F4 4 E4 12 G3 12
+tempo: 681818 re4 4 re4 4 re4 4 re4 4 mi4 4 fa4 4 mi4 12 szo3 12 X 240 re4 4 re4 4 re4 4 re4 4 mi4 4 fa4 4 mi4 12 szo3 12 X 312 re4 4 re4 4 re4 4 re4 4 mi4 4 fa4 4 mi4 12 szo3 12

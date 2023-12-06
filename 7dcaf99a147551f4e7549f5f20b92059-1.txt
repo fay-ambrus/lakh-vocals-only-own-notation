@@ -1,1 +1,1 @@
-tempo: 428571 D5 2 E5 2 F5 4 E5 2 A4 4 F5 4 E5 4 A4 4 C5 4 A4 2 C5 2 D5 2 C5 4 B4 2 E4 4 C5 4 B4 4 E4 4 G4 4 E4 2 G4 2 A4 2 A#4 4 A4 2 F4 4 A#4 4 A4 4 F4 4 D4 4 A#4 4 A#4 2 C5 4 F4 4 G4 2 F4 4 D5 4 C5 4 G4 4
+tempo: 428571 re5 2 mi5 2 fa5 4 mi5 2 la4 4 fa5 4 mi5 4 la4 4 do5 4 la4 2 do5 2 re5 2 do5 4 ti4 2 mi4 4 do5 4 ti4 4 mi4 4 szo4 4 mi4 2 szo4 2 la4 2 li4 4 la4 2 fa4 4 li4 4 la4 4 fa4 4 re4 4 li4 4 li4 2 do5 4 fa4 4 szo4 2 fa4 4 re5 4 do5 4 szo4 4

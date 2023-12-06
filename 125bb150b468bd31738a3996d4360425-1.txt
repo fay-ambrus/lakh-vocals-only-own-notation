@@ -1,1 +1,1 @@
-tempo: 451128 G4 79 A4 16 F4 8 G4 8 A4 16 F4 8 G4 8
+tempo: 451128 szo4 79 la4 16 fa4 8 szo4 8 la4 16 fa4 8 szo4 8

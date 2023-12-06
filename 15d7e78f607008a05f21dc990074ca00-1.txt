@@ -1,1 +1,1 @@
-tempo: 681818 C#5 4 A#4 4 G#4 4 F#4 4 X 48 C#5 4 A#4 4 G#4 4 F#4 4 X 184 C#4 2 C#4 2 D#4 2 F#4 9 X 49 C#4 2 C#4 2 D#4 2 F#4 9
+tempo: 681818 di5 4 li4 4 szi4 4 fi4 4 X 48 di5 4 li4 4 szi4 4 fi4 4 X 184 di4 2 di4 2 ri4 2 fi4 9 X 49 di4 2 di4 2 ri4 2 fi4 9

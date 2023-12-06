@@ -1,1 +1,1 @@
-tempo: 722892 F#3 1 F#3 1 F#3 2 F#3 2 F#3 28
+tempo: 722892 fi3 1 fi3 1 fi3 2 fi3 2 fi3 28

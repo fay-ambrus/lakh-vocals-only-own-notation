@@ -1,1 +1,1 @@
-tempo: 530973 F#3 6 G3 6 A3 4 A3 6 B3 6 C#4 4 D4 16 X 16 F#3 6 G3 6 A3 4 A3 6 B3 6 C#4 4 D4 16 X 16 F#3 6 G3 6 A3 4 A3 6 B3 6 C#4 4 D4 16 E4 16
+tempo: 530973 mi3 6 fa3 6 szo3 4 szo3 6 la3 6 ti3 4 do4 16 X 16 mi3 6 fa3 6 szo3 4 szo3 6 la3 6 ti3 4 do4 16 X 16 mi3 6 fa3 6 szo3 4 szo3 6 la3 6 ti3 4 do4 16 re4 16

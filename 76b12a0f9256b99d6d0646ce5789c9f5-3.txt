@@ -1,1 +1,1 @@
-tempo: 1034483 C4 8 C4 8 C4 16 X 16 C4 8 C4 8 C4 8 D#4 8 X 4 D4 4 C4 8 X 4 D4 4 C4 4 D#4 4 X 4 D4 4 C4 8 X 4 D4 4 C4 4 F4 36
+tempo: 1034483 do4 8 do4 8 do4 16 X 16 do4 8 do4 8 do4 8 ri4 8 X 4 re4 4 do4 8 X 4 re4 4 do4 4 ri4 4 X 4 re4 4 do4 8 X 4 re4 4 do4 4 fa4 36

@@ -1,1 +1,1 @@
-tempo: 1071428 D4 3 D#4 1 D4 2 A#3 6 D4 3 D#4 1 D4 2 A#3 6 D#4 4 D#4 2 D#4 6 D4 4 D4 2 D4 6 D#4 4 D#4 2 G4 3 F4 1 D#4 2 D4 3 D#4 1 D4 2 A#3 6 D#4 4 D#4 2 G4 3 F4 1 D#4 2 D4 3 D#4 1 D4 2 A#3 6 D#4 4 D#4 2 C4 3 D#4 1 C4 2 D4 6 F4 6 D4 2 D4 2 D4 2 A3 3 A3 1 A3 2 A#3 12
+tempo: 1071428 re4 3 ri4 1 re4 2 li3 6 re4 3 ri4 1 re4 2 li3 6 ri4 4 ri4 2 ri4 6 re4 4 re4 2 re4 6 ri4 4 ri4 2 szo4 3 fa4 1 ri4 2 re4 3 ri4 1 re4 2 li3 6 ri4 4 ri4 2 szo4 3 fa4 1 ri4 2 re4 3 ri4 1 re4 2 li3 6 ri4 4 ri4 2 do4 3 ri4 1 do4 2 re4 6 fa4 6 re4 2 re4 2 re4 2 la3 3 la3 1 la3 2 li3 12

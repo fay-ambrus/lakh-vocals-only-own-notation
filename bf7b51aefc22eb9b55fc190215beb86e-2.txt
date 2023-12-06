@@ -1,1 +1,1 @@
-tempo: 491803 A#3 6 C4 4 F4 6 X 4 F4 3 X 13 C4 3 X 1 D4 3 X 21 A#4 4 X 188 A#3 6 C4 4 F4 6 X 4 F4 3 X 13 C4 3 X 1 D4 3 X 21 A#4 4
+tempo: 491803 do3 6 re3 4 szo3 6 X 4 szo3 3 X 13 re3 3 X 1 mi3 3 X 21 do4 4 X 188 do3 6 re3 4 szo3 6 X 4 szo3 3 X 13 re3 3 X 1 mi3 3 X 21 do4 4

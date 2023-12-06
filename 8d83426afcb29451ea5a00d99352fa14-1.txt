@@ -1,1 +1,1 @@
-tempo: 600000 F#3 1 G#3 2 A#3 3 G#3 1 F#3 1 G#3 3 X 506 C#4 1 X 1 D#4 2 D#4 1 X 1 D#4 2 D#4 1 X 3 A#3 2 C#4 2 D#4 2 F4 2 D#4 10
+tempo: 600000 fa3 1 szo3 2 la3 3 szo3 1 fa3 1 szo3 3 X 506 do4 1 X 1 re4 2 re4 1 X 1 re4 2 re4 1 X 3 la3 2 do4 2 re4 2 mi4 2 re4 10

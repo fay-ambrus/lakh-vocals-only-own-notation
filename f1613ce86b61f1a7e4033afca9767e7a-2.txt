@@ -1,1 +1,1 @@
-tempo: 276498 F4 2 F4 1 F4 2 F4 1 G#4 2 G#4 1 G#4 2 A4 7 X 6 F4 6 E4 6 E4 6 D4 6 D4 6 C#4 6 X 12 C5 2 X 4 C#5 2 X 4 A#4 2 X 4 C5 2 X 4 C5 12
+tempo: 276498 do4 2 do4 1 do4 2 do4 1 ri4 2 ri4 1 ri4 2 mi4 7 X 6 do4 6 ti3 6 ti3 6 la3 6 la3 6 szi3 6 X 12 szo4 2 X 4 szi4 2 X 4 fa4 2 X 4 szo4 2 X 4 szo4 12

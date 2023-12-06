@@ -1,1 +1,1 @@
-tempo: 454545 F5 7 X 1 F5 7 X 1 F5 7 X 1 F5 7 X 673 F5 7 X 1 F5 7 X 1 F5 7 X 1 F5 7 X 673 F5 7 X 1 F5 7 X 1 F5 7 X 1 F5 7 X 449 F5 7 X 1 F5 7 X 1 F5 7 X 1 F5 7
+tempo: 454545 fa5 7 X 1 fa5 7 X 1 fa5 7 X 1 fa5 7 X 673 fa5 7 X 1 fa5 7 X 1 fa5 7 X 1 fa5 7 X 673 fa5 7 X 1 fa5 7 X 1 fa5 7 X 1 fa5 7 X 449 fa5 7 X 1 fa5 7 X 1 fa5 7 X 1 fa5 7

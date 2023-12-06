@@ -1,1 +1,1 @@
-tempo: 833333 C#4 2 C#4 2 X 188 C#4 2 C#4 2
+tempo: 833333 la3 2 la3 2 X 188 la3 2 la3 2

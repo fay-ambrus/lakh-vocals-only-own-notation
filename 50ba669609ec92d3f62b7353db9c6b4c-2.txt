@@ -1,1 +1,1 @@
-tempo: 428571 C5 2 A#4 2 X 4 G4 2 G4 2 X 436 C5 2 A#4 2 X 4 G4 2 G4 2
+tempo: 428571 szo4 2 fa4 2 X 4 re4 2 re4 2 X 436 szo4 2 fa4 2 X 4 re4 2 re4 2

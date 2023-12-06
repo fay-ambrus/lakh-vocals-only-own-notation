@@ -1,1 +1,1 @@
-tempo: 923076 D#4 3 X 1 E4 4 F#4 4 C#4 3 X 1 D#4 3 X 1 E4 4 F#4 4 C#4 3 X 1 D#4 4 E4 4 F#4 4 C#4 3 X 1 D#4 3 X 1 E4 4 F#4 4 C#4 2 X 2 D#4 3 X 1 E4 4 F#4 4 C#4 3 X 1 D#4 3 X 1 E4 4 F#4 4 C#4 3 X 1 D#4 4 E4 4 F#4 4 C#4 3 X 1 D#4 3 X 1 E4 4 F#4 4 C#4 2
+tempo: 923076 ri4 3 X 1 mi4 4 fi4 4 di4 3 X 1 ri4 3 X 1 mi4 4 fi4 4 di4 3 X 1 ri4 4 mi4 4 fi4 4 di4 3 X 1 ri4 3 X 1 mi4 4 fi4 4 di4 2 X 2 ri4 3 X 1 mi4 4 fi4 4 di4 3 X 1 ri4 3 X 1 mi4 4 fi4 4 di4 3 X 1 ri4 4 mi4 4 fi4 4 di4 3 X 1 ri4 3 X 1 mi4 4 fi4 4 di4 2

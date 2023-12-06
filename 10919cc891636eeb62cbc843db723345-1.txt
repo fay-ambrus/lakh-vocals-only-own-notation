@@ -1,1 +1,1 @@
-tempo: 618556 B3 3 X 1 B3 3 C4 1 B3 3 X 1 B3 3 C4 1 B3 3 C4 1 B3 4 X 8 B3 3 X 1 B3 3 C4 1 B3 3 C4 1 B3 3 C4 1 B3 3 C4 1 B3 4 X 8 B3 3 X 1 B3 3 C4 1 B3 4 B3 3 C4 1 B3 3 C4 1 B3 4
+tempo: 618556 ti3 3 X 1 ti3 3 do4 1 ti3 3 X 1 ti3 3 do4 1 ti3 3 do4 1 ti3 4 X 8 ti3 3 X 1 ti3 3 do4 1 ti3 3 do4 1 ti3 3 do4 1 ti3 3 do4 1 ti3 4 X 8 ti3 3 X 1 ti3 3 do4 1 ti3 4 ti3 3 do4 1 ti3 3 do4 1 ti3 4

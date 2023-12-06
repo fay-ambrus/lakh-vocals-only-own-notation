@@ -1,1 +1,1 @@
-tempo: 697674 G3 7 X 1 G3 6 X 17 G3 1 G3 2 G3 4 X 1 G3 1 G3 1 X 1 G3 4 X 18 F3 2 G3 5 X 1 F3 2 G3 4 X 16 F3 1 X 1 F3 2 F3 3 X 1 F3 1 X 1 F3 1 X 1 F3 4 X 130 D4 3 C4 1 A#3 2 X 1 F3 1 F4 6 G4 2 F4 4 G4 3 D4 1 C4 6 D4 2 A#3 2 G3 2 F3 2 F4 2 D4 2 D4 2 C4 2 A#3 2
+tempo: 697674 szo3 7 X 1 szo3 6 X 17 szo3 1 szo3 2 szo3 4 X 1 szo3 1 szo3 1 X 1 szo3 4 X 18 fa3 2 szo3 5 X 1 fa3 2 szo3 4 X 16 fa3 1 X 1 fa3 2 fa3 3 X 1 fa3 1 X 1 fa3 1 X 1 fa3 4 X 130 re4 3 do4 1 li3 2 X 1 fa3 1 fa4 6 szo4 2 fa4 4 szo4 3 re4 1 do4 6 re4 2 li3 2 szo3 2 fa3 2 fa4 2 re4 2 re4 2 do4 2 li3 2

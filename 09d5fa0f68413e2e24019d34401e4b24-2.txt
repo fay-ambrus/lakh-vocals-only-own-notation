@@ -1,1 +1,1 @@
-tempo: 434783 C5 2 C5 2 X 72 C5 2 C5 4 C5 4 X 4 A#4 2 X 356 C5 2 C5 2 X 72 C5 2 C5 4 C5 4 X 4 A#4 2
+tempo: 434783 mi4 2 mi4 2 X 72 mi4 2 mi4 4 mi4 4 X 4 re4 2 X 356 mi4 2 mi4 2 X 72 mi4 2 mi4 4 mi4 4 X 4 re4 2

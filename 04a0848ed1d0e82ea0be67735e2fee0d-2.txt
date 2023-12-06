@@ -1,1 +1,1 @@
-tempo: 618556 B3 2 D4 2 F#4 3 G4 3 D4 18 X 308 B3 2 D4 2 F#4 3 G4 3 D4 18
+tempo: 618556 mi3 2 szo3 2 ti3 3 do4 3 szo3 18 X 308 mi3 2 szo3 2 ti3 3 do4 3 szo3 18

@@ -1,1 +1,1 @@
-tempo: 722892 C4 4 A#3 8 X 16 C4 2 D4 2 C4 2 A#3 8 X 22 G3 2 A#3 8 X 18 C4 2 D4 2 C4 2 A#3 10 X 140 B3 4 A#3 4 C#4 4 B3 8 X 12 D#4 2 C#4 4 A#3 4 B3 4 B3 4 X 14 D#4 2 C#4 4 A#3 4 B3 4 G#3 4
+tempo: 722892 do4 4 li3 8 X 16 do4 2 re4 2 do4 2 li3 8 X 22 szo3 2 li3 8 X 18 do4 2 re4 2 do4 2 li3 10 X 140 ti3 4 li3 4 di4 4 ti3 8 X 12 ri4 2 di4 4 li3 4 ti3 4 ti3 4 X 14 ri4 2 di4 4 li3 4 ti3 4 szi3 4

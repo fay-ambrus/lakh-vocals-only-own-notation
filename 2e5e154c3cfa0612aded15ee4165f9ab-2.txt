@@ -1,1 +1,1 @@
-tempo: 576368 C5 12 A4 2 A#4 1 C5 1 A#4 12 F5 2 E5 1 C5 9 X 3 G4 1 C5 2 D5 2 A#4 8 X 2 D4 1 F4 1 A#4 2 A4 2 F4 8 G4 4
+tempo: 576368 do5 12 la4 2 li4 1 do5 1 li4 12 fa5 2 mi5 1 do5 9 X 3 szo4 1 do5 2 re5 2 li4 8 X 2 re4 1 fa4 1 li4 2 la4 2 fa4 8 szo4 4

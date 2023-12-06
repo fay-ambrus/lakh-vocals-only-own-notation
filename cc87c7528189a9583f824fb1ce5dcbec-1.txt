@@ -1,1 +1,1 @@
-tempo: 500000 G#3 3 X 1 F3 4 X 4 E3 3 X 1 E3 1 X 1 F3 1 X 13 G#3 3 X 1 F3 4 X 4 E3 3 X 1 E3 1 X 1 F3 1 X 13 G#3 3 X 1 F3 4 X 4 E3 3 X 1 E3 1 X 1 F3 1 X 13 G#3 3 X 1 F3 4 X 4 E3 3 X 1 E3 1 X 1 F3 1
+tempo: 500000 szi3 3 X 1 fa3 4 X 4 mi3 3 X 1 mi3 1 X 1 fa3 1 X 13 szi3 3 X 1 fa3 4 X 4 mi3 3 X 1 mi3 1 X 1 fa3 1 X 13 szi3 3 X 1 fa3 4 X 4 mi3 3 X 1 mi3 1 X 1 fa3 1 X 13 szi3 3 X 1 fa3 4 X 4 mi3 3 X 1 mi3 1 X 1 fa3 1

@@ -1,1 +1,1 @@
-tempo: 674157 C5 2 C5 2 X 252 C5 2 C5 2 X 364 C5 2 C5 2
+tempo: 674157 fa4 2 fa4 2 X 252 fa4 2 fa4 2 X 364 fa4 2 fa4 2

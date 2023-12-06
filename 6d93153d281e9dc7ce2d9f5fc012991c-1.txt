@@ -1,1 +1,1 @@
-tempo: 387097 D4 14 X 2 D#4 1 X 3 D#4 2 X 2 D#4 8 X 2 D#4 9 X 1 D4 1 X 3 C4 11 X 1 C4 1 X 3 D4 14 X 2 D#4 1 X 3 D#4 2 X 2 D#4 8 X 48 D#4 1 X 3 D#4 2 X 2 D#4 8
+tempo: 387097 ti3 14 X 2 do4 1 X 3 do4 2 X 2 do4 8 X 2 do4 9 X 1 ti3 1 X 3 la3 11 X 1 la3 1 X 3 ti3 14 X 2 do4 1 X 3 do4 2 X 2 do4 8 X 48 do4 1 X 3 do4 2 X 2 do4 8

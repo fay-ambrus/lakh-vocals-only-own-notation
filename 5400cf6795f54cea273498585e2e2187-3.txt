@@ -1,1 +1,1 @@
-tempo: 882353 C4 1 C4 1 E4 1 F4 3 E4 3 D4 1 B3 1 B3 1 D4 3 C4 3 C4 1 D4 1 E4 1 D4 3 C4 3 B3 1 B3 1 B3 1 C4 6 C4 1 D4 1 E4 1 F4 3 F4 3 F4 1 F4 1 F4 1 E4 2 D4 1 C4 3 C4 1 D4 1 E4 1 D4 3 C4 3 B3 1 B3 1 B3 1 G3 6
+tempo: 882353 do4 1 do4 1 mi4 1 fa4 3 mi4 3 re4 1 ti3 1 ti3 1 re4 3 do4 3 do4 1 re4 1 mi4 1 re4 3 do4 3 ti3 1 ti3 1 ti3 1 do4 6 do4 1 re4 1 mi4 1 fa4 3 fa4 3 fa4 1 fa4 1 fa4 1 mi4 2 re4 1 do4 3 do4 1 re4 1 mi4 1 re4 3 do4 3 ti3 1 ti3 1 ti3 1 szo3 6

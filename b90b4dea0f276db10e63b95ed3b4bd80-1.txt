@@ -1,1 +1,1 @@
-tempo: 500000 D4 6 F4 6 C4 16 X 36 D4 6 F4 6 C4 16 X 132 D4 6 F4 6 C4 16 X 4 E4 16 X 16 D4 6 F4 6 C4 16 X 388 D4 6 F4 6 C4 16 X 4 E4 16 X 16 D4 6 F4 6 C4 16 X 292 D4 6 F4 6 C4 16 X 4 E4 32
+tempo: 500000 re4 6 fa4 6 do4 16 X 36 re4 6 fa4 6 do4 16 X 132 re4 6 fa4 6 do4 16 X 4 mi4 16 X 16 re4 6 fa4 6 do4 16 X 388 re4 6 fa4 6 do4 16 X 4 mi4 16 X 16 re4 6 fa4 6 do4 16 X 292 re4 6 fa4 6 do4 16 X 4 mi4 32

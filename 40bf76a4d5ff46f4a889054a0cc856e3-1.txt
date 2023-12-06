@@ -1,1 +1,1 @@
-tempo: 451127 D4 1 X 1 D4 1 X 1 E4 1 X 1 E4 1 X 1 A4 1 X 1 A4 1 X 1 F#4 1 X 1 F#4 1 X 1 B4 1 X 1 B4 1 X 1 A4 1 X 1 A4 1 X 1 G#4 1 X 1 G#4 1 X 1 A4 1 X 1 A4 1
+tempo: 451127 re4 1 X 1 re4 1 X 1 mi4 1 X 1 mi4 1 X 1 la4 1 X 1 la4 1 X 1 fi4 1 X 1 fi4 1 X 1 ti4 1 X 1 ti4 1 X 1 la4 1 X 1 la4 1 X 1 szi4 1 X 1 szi4 1 X 1 la4 1 X 1 la4 1

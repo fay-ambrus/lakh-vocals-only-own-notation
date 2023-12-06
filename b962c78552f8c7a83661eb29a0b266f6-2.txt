@@ -1,1 +1,1 @@
-tempo: 500000 D4 2 C#4 2 B3 2 X 2 D4 2 C#4 2 B3 2 X 2 D4 2 C#4 2 B3 2 X 2 D4 2 C#4 2 B3 2 X 34 D4 2 C#4 2 B3 2 X 2 D4 2 C#4 2 B3 2
+tempo: 500000 re4 2 di4 2 ti3 2 X 2 re4 2 di4 2 ti3 2 X 2 re4 2 di4 2 ti3 2 X 2 re4 2 di4 2 ti3 2 X 34 re4 2 di4 2 ti3 2 X 2 re4 2 di4 2 ti3 2

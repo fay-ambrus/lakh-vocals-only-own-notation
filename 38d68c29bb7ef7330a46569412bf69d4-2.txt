@@ -1,1 +1,1 @@
-tempo: 419580 D5 4 D5 2 B4 2 X 144 E5 2 D5 2 D5 2 D5 6 X 156 D5 4 D5 2 B4 2 X 144 E5 2 D5 2 D5 2 D5 6 X 156 D5 4 D5 2 B4 2 X 144 E5 2 D5 2 D5 2 D5 6
+tempo: 419580 do5 4 do5 2 la4 2 X 144 re5 2 do5 2 do5 2 do5 6 X 156 do5 4 do5 2 la4 2 X 144 re5 2 do5 2 do5 2 do5 6 X 156 do5 4 do5 2 la4 2 X 144 re5 2 do5 2 do5 2 do5 6

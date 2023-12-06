@@ -1,1 +1,1 @@
-tempo: 431654 F4 3 F4 3 G4 3 G4 3 G4 3 X 1 A4 3 A4 3 A#4 3 A#4 3 A#4 3 X 2 F4 3 F4 3 G4 3 G4 3 G4 3 A4 3 A4 3 A#4 3 A#4 3 A#4 3
+tempo: 431654 fa4 3 fa4 3 szo4 3 szo4 3 szo4 3 X 1 la4 3 la4 3 li4 3 li4 3 li4 3 X 2 fa4 3 fa4 3 szo4 3 szo4 3 szo4 3 la4 3 la4 3 li4 3 li4 3 li4 3

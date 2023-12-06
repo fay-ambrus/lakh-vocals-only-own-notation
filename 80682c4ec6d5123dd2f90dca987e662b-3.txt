@@ -1,1 +1,1 @@
-tempo: 327868 C4 21 X 15 G3 10 X 14 B3 8 C4 4 D4 6 C4 4 B3 8 A3 24
+tempo: 327868 do4 21 X 15 szo3 10 X 14 ti3 8 do4 4 re4 6 do4 4 ti3 8 la3 24

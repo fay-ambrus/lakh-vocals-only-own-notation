@@ -1,1 +1,1 @@
-tempo: 465116 F4 8 G4 8 G#4 8 A#4 4 X 484 G4 8 A4 8 A#4 8 C5 4
+tempo: 465116 fa4 8 szo4 8 szi4 8 li4 4 X 484 szo4 8 la4 8 li4 8 do5 4

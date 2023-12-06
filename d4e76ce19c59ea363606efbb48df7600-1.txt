@@ -1,1 +1,1 @@
-tempo: 476190 A#4 3 C#5 3 E5 2 D5 3 A4 3 F4 2 A#4 3 C#5 3 E5 2 D5 3 A4 1 X 4 A#4 3 C#5 3 E5 2 D5 3 A4 3 F4 2 A#4 3 C#5 3 E5 2 C#5 3 E5 3 G5 2 X 192 A#4 3 C#5 3 E5 2 D5 3 A4 3 F4 2 A#4 3 C#5 3 E5 2 D5 3 A4 1 X 4 A#4 3 C#5 3 E5 2 D5 3 A4 3 F4 2 A#4 3 C#5 3 E5 2 C#5 3 E5 3 G5 2
+tempo: 476190 li4 3 di5 3 mi5 2 re5 3 la4 3 fa4 2 li4 3 di5 3 mi5 2 re5 3 la4 1 X 4 li4 3 di5 3 mi5 2 re5 3 la4 3 fa4 2 li4 3 di5 3 mi5 2 di5 3 mi5 3 szo5 2 X 192 li4 3 di5 3 mi5 2 re5 3 la4 3 fa4 2 li4 3 di5 3 mi5 2 re5 3 la4 1 X 4 li4 3 di5 3 mi5 2 re5 3 la4 3 fa4 2 li4 3 di5 3 mi5 2 di5 3 mi5 3 szo5 2

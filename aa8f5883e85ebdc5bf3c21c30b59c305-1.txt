@@ -1,1 +1,1 @@
-tempo: 454545 G5 14 X 2 G5 14 X 2 F5 14 X 2 E5 14 X 2 D#5 14 X 2 D#5 14 X 2 D5 14 X 2 C5 14 X 2 G4 14 X 2 A4 14 X 2 A#4 14 X 2 C5 14 X 2 D5 14 X 2 F5 14 X 2 F#5 14 X 2 G5 14
+tempo: 454545 szo5 14 X 2 szo5 14 X 2 fa5 14 X 2 mi5 14 X 2 ri5 14 X 2 ri5 14 X 2 re5 14 X 2 do5 14 X 2 szo4 14 X 2 la4 14 X 2 li4 14 X 2 do5 14 X 2 re5 14 X 2 fa5 14 X 2 fi5 14 X 2 szo5 14

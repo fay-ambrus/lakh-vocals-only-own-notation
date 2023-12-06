@@ -1,1 +1,1 @@
-tempo: 857142 F#5 1 F#5 5 D#5 2 F#5 4 X 1 G#5 4 E5 5 C#5 3 A4 3 X 4 F#5 1 F#5 5 D#5 2 F#5 4 X 2 G#5 3 E5 5 C#5 3 A4 3
+tempo: 857142 fi5 1 fi5 5 ri5 2 fi5 4 X 1 szi5 4 mi5 5 di5 3 la4 3 X 4 fi5 1 fi5 5 ri5 2 fi5 4 X 2 szi5 3 mi5 5 di5 3 la4 3

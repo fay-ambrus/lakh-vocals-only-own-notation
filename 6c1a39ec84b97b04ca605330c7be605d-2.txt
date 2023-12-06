@@ -1,1 +1,1 @@
-tempo: 400000 B3 48 C4 48 A#3 48 A3 48 A#3 48 C4 48 G#3 48 C4 24 B3 24
+tempo: 400000 ti3 48 do4 48 li3 48 la3 48 li3 48 do4 48 szi3 48 do4 24 ti3 24

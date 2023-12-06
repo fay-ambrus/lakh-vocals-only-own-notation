@@ -1,1 +1,1 @@
-tempo: 535714 D#5 1 X 1 E5 26 D5 3 X 1 D5 2 C5 15
+tempo: 535714 ri5 1 X 1 mi5 26 re5 3 X 1 re5 2 do5 15

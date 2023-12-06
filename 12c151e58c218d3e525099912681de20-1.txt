@@ -1,1 +1,1 @@
-tempo: 588235 E4 4 A4 16 X 380 E4 4 A4 16 X 300 F4 4 A#4 24 X 196 F4 4 A#4 24 X 36 F4 4 A#4 24 X 32 A#4 1 X 2 A#4 2
+tempo: 588235 mi4 4 la4 16 X 380 mi4 4 la4 16 X 300 fa4 4 li4 24 X 196 fa4 4 li4 24 X 36 fa4 4 li4 24 X 32 li4 1 X 2 li4 2

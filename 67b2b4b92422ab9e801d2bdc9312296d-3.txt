@@ -1,1 +1,1 @@
-tempo: 600000 B3 8 B3 4 A3 4 G3 4 F#3 4 G3 8 F#3 8 G3 8 G3 8 G3 4 G3 4 F#3 4 G3 4 G3 8 G3 8 F#3 8 B3 8 A3 4 G3 4 F#3 4 G3 4 G3 8 A3 8 B3 8 F#3 8 G3 4 B3 4 A3 4 E4 4 D4 8 D4 8 B3 16
+tempo: 600000 ti3 8 ti3 4 la3 4 szo3 4 fi3 4 szo3 8 fi3 8 szo3 8 szo3 8 szo3 4 szo3 4 fi3 4 szo3 4 szo3 8 szo3 8 fi3 8 ti3 8 la3 4 szo3 4 fi3 4 szo3 4 szo3 8 la3 8 ti3 8 fi3 8 szo3 4 ti3 4 la3 4 mi4 4 re4 8 re4 8 ti3 16

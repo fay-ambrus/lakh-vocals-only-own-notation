@@ -1,1 +1,1 @@
-tempo: 454545 A#3 1 X 3 A#3 2 X 4 A#3 1 X 1 A#3 2 A#3 1 X 1 A#3 2 A#3 1 X 1 A#3 2 A#3 2 X 2 A#3 1 X 1 C4 2 C4 1 X 1 C4 1 X 1 C4 1 X 1 C4 2 C4 2 X 2 C4 1 X 1 F3 2 F3 1 X 1 F3 2 F3 1 X 1 F3 2 F3 2 X 12 F3 2 X 14 F3 3 X 13 F3 3
+tempo: 454545 li3 1 X 3 li3 2 X 4 li3 1 X 1 li3 2 li3 1 X 1 li3 2 li3 1 X 1 li3 2 li3 2 X 2 li3 1 X 1 do4 2 do4 1 X 1 do4 1 X 1 do4 1 X 1 do4 2 do4 2 X 2 do4 1 X 1 fa3 2 fa3 1 X 1 fa3 2 fa3 1 X 1 fa3 2 fa3 2 X 12 fa3 2 X 14 fa3 3 X 13 fa3 3

@@ -1,1 +1,1 @@
-tempo: 454545 D#4 1 X 3 D#4 1 X 2 D#4 2 X 2 D#4 3
+tempo: 454545 ri4 1 X 3 ri4 1 X 2 ri4 2 X 2 ri4 3

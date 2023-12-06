@@ -1,1 +1,1 @@
-tempo: 545455 G4 48 G4 32 G4 16 X 224 G4 48 G4 32 G4 16 X 416 G4 48 G4 32 G4 16 X 160 G4 48 G4 32 G4 16
+tempo: 545455 szo4 48 szo4 32 szo4 16 X 224 szo4 48 szo4 32 szo4 16 X 416 szo4 48 szo4 32 szo4 16 X 160 szo4 48 szo4 32 szo4 16

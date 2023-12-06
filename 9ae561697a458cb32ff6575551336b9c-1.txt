@@ -1,1 +1,1 @@
-tempo: 300000 F3 62 X 2 F3 14 X 2 F3 14 X 482 F3 62 X 2 F3 14 X 2 F3 14
+tempo: 300000 fa3 62 X 2 fa3 14 X 2 fa3 14 X 482 fa3 62 X 2 fa3 14 X 2 fa3 14

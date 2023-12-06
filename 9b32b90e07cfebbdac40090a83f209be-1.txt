@@ -1,1 +1,1 @@
-tempo: 545454 D#5 32 E5 32 D#5 32 D5 4 X 924 D#5 32 E5 32 D#5 32 D5 8
+tempo: 545454 ri5 32 mi5 32 ri5 32 re5 4 X 924 ri5 32 mi5 32 ri5 32 re5 8

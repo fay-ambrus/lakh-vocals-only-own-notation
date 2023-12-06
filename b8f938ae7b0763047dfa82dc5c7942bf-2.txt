@@ -1,1 +1,1 @@
-tempo: 652174 G4 12 B4 4 F#4 12 A4 4 D4 12 F#4 4 E4 16 G4 12 B4 4 F#4 12 A4 4 D4 12 F#4 4 E4 16 X 256 G4 12 B4 4 F#4 12 A4 4 D4 12 F#4 4 E4 16 G4 12 B4 4 F#4 12 A4 4 D4 12 F#4 4 E4 16 X 512 G4 12 B4 4 F#4 12 A4 4 D4 12 F#4 4 E4 16 G4 12 B4 4 F#4 12 A4 4 D4 12 F#4 4 E4 16
+tempo: 652174 szo4 12 ti4 4 fi4 12 la4 4 re4 12 fi4 4 mi4 16 szo4 12 ti4 4 fi4 12 la4 4 re4 12 fi4 4 mi4 16 X 256 szo4 12 ti4 4 fi4 12 la4 4 re4 12 fi4 4 mi4 16 szo4 12 ti4 4 fi4 12 la4 4 re4 12 fi4 4 mi4 16 X 512 szo4 12 ti4 4 fi4 12 la4 4 re4 12 fi4 4 mi4 16 szo4 12 ti4 4 fi4 12 la4 4 re4 12 fi4 4 mi4 16

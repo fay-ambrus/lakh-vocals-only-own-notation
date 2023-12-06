@@ -1,1 +1,1 @@
-tempo: 681818 F#4 28 X 420 B3 1 C#4 11 C#4 1 A#3 2 D#4 9 C#4 8 A#3 24
+tempo: 681818 fi4 28 X 420 ti3 1 di4 11 di4 1 li3 2 ri4 9 di4 8 li3 24

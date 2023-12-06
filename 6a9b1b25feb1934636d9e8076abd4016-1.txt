@@ -1,1 +1,1 @@
-tempo: 375000 D4 4 D4 4 D4 4 D4 4
+tempo: 375000 fa3 4 fa3 4 fa3 4 fa3 4

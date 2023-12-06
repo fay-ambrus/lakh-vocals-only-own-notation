@@ -1,1 +1,1 @@
-tempo: 666667 E4 3 X 1 D#4 3 X 1 B3 3 X 1 C#4 1 B3 1 X 1 C#4 1 D#4 12 C#4 2 B3 18
+tempo: 666667 do4 3 X 1 ti3 3 X 1 szo3 3 X 1 la3 1 szo3 1 X 1 la3 1 ti3 12 la3 2 szo3 18
